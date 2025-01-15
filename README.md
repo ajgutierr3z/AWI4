@@ -8,7 +8,7 @@ Este sitio web es parte del material de apoyo para la materia **Aplicación Web 
 - **Recursos y herramientas**: Listado de recursos recomendados para aprender programación de entornos virtuales.
 
 ## Cómo ver el sitio
-Visita la página del proyecto aquí: [Programación para Entornos Virtuales](https://ajgutierr3z.github.io/AWI4/)
+Visita la página del proyecto aquí: [Aplicaciones Web en la Industria 4.0](https://ajgutierr3z.github.io/AWI4/)
 
 ## Tecnologías utilizadas
 - **HTML5** para la estructura del sitio.
